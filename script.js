@@ -6,67 +6,76 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-       enunciado: "Assim que saiu da escola você se depara com uma nova tecnologia...",
+       enunciado: "Qual é o seu instrumento musical favorito",
 alternativas: [
   {
-    texto: "Isso é assustador!",
-    afirmacao: "No início ficou com medo do que essa tecnologia pode fazer."
+    texto: "Teclado",
+    afirmacao: "O teclado é um instrumento que pode ser usado em vários gêneros musicais e permite a reprodução de diversos sons diferentes."
   },
   {
-    texto: "Isso é maravilhoso!",
-    afirmacao: "Quis saber como usar IA no seu dia a dia."
+    texto: "Violão",
+    afirmacao: "O violão é um instrumento versátil e fácil de aprender"
   }
 ]
     },
     {
-        enunciado: "Com a descoberta desta tecnologia, chamada Inteligência Artificial, uma professora de tecnologia da escola decidiu fazer uma sequência de aulas sobre esta tecnologia. No fim de uma aula ela pede que você escreva um trabalho sobre o uso de IA em sala de aula. Qual atitude você toma?",
+        enunciado: "Como a música influencia suas emoções?" ,
         alternativas: [
             {
-                texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
-                afirmacao: "afirmação"
+                texto: "A música me faz sentir feliz e animado",
+                afirmacao: "A música tem o poder de elevar o espírito e criar uma atmosfera positiva."
             },
             {
-                texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
-                afirmacao: "afirmação"
+                texto: "A música me faz voltar no tempo.",
+                afirmacao: "Músicas podem evocar memórias e sentimentos profundos."
             }
         ]
     },
     {
-        enunciado: "Após a elaboração do trabalho escrito, a professora realizou um debate entre a turma para entender como foi realizada a pesquisa e escrita. Nessa conversa também foi levantado um ponto muito importante: como a IA impacta o trabalho do futuro. Nesse debate, como você se posiciona?",
+        enunciado: "Você prefere ouvir música ao vivo ou gravada?",
         alternativas: [
             {
-                texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
-                afirmacao: "afirmação"
+                texto: "Ao vivo, a emoção é maior",
+                afirmacao: "A experiência de um show ao vivo é única e emocionante."
             },
             {
-                texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
-                afirmacao: "afirmação"
+                texto: "Gravada, é mais versátil",
+                afirmacao: "A música gravada permite que eu a ouça a qualquer momento."
             }
         ]
     },
     {
-        enunciado: "Ao final da discussão, você precisou criar uma imagem no computador que representasse o que pensa sobre IA. E agora?",
+        enunciado: "Qual gênero musical você mais gosta?",
         alternativas: [
             {
-                texto: "Criar uma imagem utilizando uma plataforma de design como o Paint.",
-                afirmacao: "afirmação"
+                texto: "MPB",
+                afirmacao: "a música MPB é caracterizado pela fusão de ritmos, letras e melodias que refletem a cultura, a história e a vida cotidiana do povo brasileiro. 
+"
             },
             {
-                texto: "Criar uma imagem utilizando um gerador de imagem de IA.",
-                afirmacao: "afirmação"
+                texto: "Sertanejo",
+                afirmacao: "A música sertaneja é um gênero musical brasileiro com raízes na cultura caipira."
+            } ,
+             {
+                texto: "Gaúcha",
+                afirmacao: "A música gaúcha reflete a cultura e tradições do povo gaúcho."
+            } ,
+             {
+                texto: "Rock",
+                afirmacao: "O rock é cheio de energia e emoção."
             }
         ]
     },
     {
-        enunciado: "Você tem um trabalho em grupo de biologia para entregar na semana seguinte, o andamento do trabalho está um pouco atrasado e uma pessoa do seu grupo decidiu fazer com ajuda da IA. O problema é que o trabalho está totalmente igual ao do chat. O que você faz? ",
+        enunciado: "Você gostaria de aprender a tocar um novo instrumento? ",
         alternativas: [
             {
-                texto: "Escrever comandos para o chat é uma forma de contribuir com o trabalho, por isso não é um problema utilizar o texto inteiro.",
-                afirmacao: "afirmação"
+                texto: "Sim",
+                afirmacao: "Aprender um novo instrumento é gratificante."
             },
             {
-                texto: "O chat pode ser uma tecnologia muito avançada, mas é preciso manter a atenção pois toda máquina erra, por isso revisar o trabalho e contribuir com as perspectivas pessoais é essencial.",
-                afirmacao: "afirmação"
+                texto: "Não",
+                afirmacao: "Aprofundar-se em um único instrumento pode ser muito gratificante."
             }
         ]
     },
