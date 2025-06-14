@@ -55,15 +55,7 @@ alternativas: [
             {
                 texto: "Sertanejo",
                 afirmacao: "A música sertaneja é um gênero musical brasileiro com raízes na cultura caipira."
-            } ,
-             {
-                texto: "Gaúcha",
-                afirmacao: "A música gaúcha reflete a cultura e tradições do povo gaúcho."
-            } ,
-             {
-                texto: "Rock",
-                afirmacao: "O rock é cheio de energia e emoção."
-            }
+            } 
         ]
     },
     {
