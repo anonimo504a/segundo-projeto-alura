@@ -49,8 +49,7 @@ alternativas: [
         alternativas: [
             {
                 texto: "MPB",
-                afirmacao: "a música MPB é caracterizado pela fusão de ritmos, letras e melodias que refletem a cultura, a história e a vida cotidiana do povo brasileiro. 
-"
+                afirmacao: "A música MPB é caracterizado pela fusão de ritmos, letras e melodias que refletem a cultura, a história e a vida cotidiana do povo brasileiro."
             },
             {
                 texto: "Sertanejo",
