@@ -54,6 +54,14 @@ alternativas: [
             {
                 texto: "Sertanejo",
                 afirmacao: "A música sertaneja é um gênero musical brasileiro com raízes na cultura caipira."
+            },
+             {
+                texto: "Gaúcha",
+                afirmacao: "A música gaúcha é um gênero musical originário do Rio Grande do Sul, Brasil, que celebra a cultura e identidade do povo gaúcho. "
+            },
+             {
+                texto: "Rock",
+                afirmacao: "É caracterizado pelo uso da guitarra elétrica, bateria, baixo e voz, e pode ser definido por um ritmo forte e letras que abordam temas variados como amor, rebeldia e questões sociais. "
             } 
         ]
     },
