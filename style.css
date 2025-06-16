@@ -7,7 +7,7 @@
 }
 
 body {
-    background-image: url(imagem-fundo.avif);
+    background-image: url(imagem-fundo.png);
     color: var(--cor-texto);
     display: flex;
     justify-content: center;
