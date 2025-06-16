@@ -17,11 +17,12 @@ body {
 
 .caixa-principal{
     background-color: var(--cor-principal);
-    width: 90%;
-    max-width: 600px;
+    width: 100%;
+    max-width: 900px;
     text-align: center;
-    padding: 20px;
+    padding: 100px;
 }
+
 
 h1{
     color: var(--cor-destaque);
